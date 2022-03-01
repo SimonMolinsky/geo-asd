@@ -12,7 +12,10 @@
 
 ## Table of resources
 
-TBA
+| Raw | Processed | Source | Time | Spatial Extent | Spatial Scale |
+| --- | --------- | ------ | ---- | -------------- | ------------- |
+| ADV_AllData.xlsx | ??? | https://www.cdc.gov/ncbddd/autism/data/index.html#resources | 2000-2018 | USA - 11 States | Country / State |
+| ADV_AllData.xlsx | ??? | https://www.cdc.gov/ncbddd/autism/data/index.html#resources | 2000-2020 | USA - 52 States; different densities | State |
 
 ## Contributions
 
