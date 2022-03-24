@@ -1,0 +1,3 @@
+default:
+  - analysis_level: states
+  - analysis_time: all
